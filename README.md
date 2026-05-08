@@ -1,96 +1,63 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=YOUR_USERNAME.YOUR_USERNAME">
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=YOUR_USERNAME.YOUR_USERNAME" />
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+There!+👋;I'm+Abdelrahman+Walid;Computer+Engineering+Student;Problem+Solver+%26+Developer&center=true&size=30">
 </h1>
 
-<h5 align="center">
-  <code>
-    <a href="https://www.linkedin.com/in/abdelrhman-walid-295504335" title="LinkedIn Profile">
-      <img width="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"> LinkedIn
-    </a>
-  </code>
-
-  <code>
-    <a href="https://codeforces.com/profile/alramly1451" title="Codeforces Profile">
-      💻 Codeforces
-    </a>
-  </code>
-</h5>
+<h3 align="center">
+  💻 Computer Engineering Student | Problem Solver | Backend Enthusiast
+</h3>
 
 <br>
 
 <p align="center">
-  Hi, I'm Abdelrahman Walid, a Computer Engineering student from Egypt 🇪🇬
-  <br><br>
+  <a href="https://www.linkedin.com/in/abdelrhman-walid-295504335">
+    <img src="https://img.shields.io/badge/LinkedIn-Abdelrahman%20Walid-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 
-🎓 Second Year Student at Faculty of Engineering - Computer Engineering <br>
+  <a href="https://codeforces.com/profile/alramly1451">
+    <img src="https://img.shields.io/badge/Codeforces-alramly1451-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+  </a>
+</p>
 
-💻 Interested in Software Development and Problem Solving <br>
+---
 
-🌱 Currently learning Data Structures, Algorithms, and Backend Development <br>
+## 👨‍💻 About Me
 
-⚡ Working with OOP concepts using C++, C#, and Java <br>
+<p align="center">
 
-🛠️ Using Git & GitHub to manage and improve my projects <br>
-
+🎓 Second Year Student at Faculty of Engineering - Computer Engineering
+💻 Interested in Software Development and Problem Solving
+🌱 Currently learning Data Structures, Algorithms, and Backend Development
+⚡ Working with OOP concepts using C++, C#, and Java
+🛠️ Using Git & GitHub to manage and improve my projects
 🚀 Trying to improve my programming skills every day
 
 </p>
 
-<hr>
+---
 
-<h2 align="center">🔥 Languages & Tools 🔥</h2>
-
-<br>
-
-<p align="center">
-
-<code><img title="C" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"></code>
-
-<code><img title="C++" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"></code>
-
-<code><img title="C#" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"></code>
-
-<code><img title="Java" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"></code>
-
-<code><img title="SQL Server" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"></code>
-
-<code><img title="Git" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></code>
-
-<code><img title="GitHub" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"></code>
-
-<code><img title="Visual Studio" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"></code>
-
-<code><img title="IntelliJ IDEA" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg"></code>
-
-</p>
-
-<hr>
-
-<h2 align="center">⚡ GitHub Stats ⚡</h2>
+## 🔥 Languages & Tools
 
 <br>
 
 <p align="center">
-
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-  <img width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,git,github,visualstudio,idea" />
 </p>
 
 <br>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Database-SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
 
-  <img width="800" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+  <img src="https://img.shields.io/badge/OOP-Object%20Oriented%20Programming-blue?style=for-the-badge"/>
 
+  <img src="https://img.shields.io/badge/Problem%20Solving-Codeforces-orange?style=for-the-badge"/>
 </p>
 
-<hr>
+---
 
-<h2 align="center">👨‍💻 Featured Projects 👨‍💻</h2>
+## 👨‍💻 Featured Projects
 
 <br>
 
@@ -100,28 +67,24 @@
 
 </div>
 
-<br>
+---
 
-<hr>
-
-<h2 align="center">📫 Connect With Me 📫</h2>
+## 📫 Connect With Me
 
 <br>
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/abdelrhman-walid-295504335">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
 
-<a href="https://www.linkedin.com/in/abdelrhman-walid-295504335">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://codeforces.com/profile/alramly1451">
-  <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white"/>
-</a>
-
+  <a href="https://codeforces.com/profile/alramly1451">
+    <img src="https://img.shields.io/badge/Codeforces-Profile-orange?style=for-the-badge&logo=codeforces"/>
+  </a>
 </p>
 
-<br>
+---
 
-<h4 align="center">
-  🚀 Keep Learning, Keep Building
-</h4>
+<h3 align="center">
+  🚀 Keep Learning • Keep Building • Keep Growing
+</h3>
