@@ -1,11 +1,14 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=YOUR_USERNAME.YOUR_USERNAME" />
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+There!+👋;I'm+Abdelrahman+Walid;Computer+Engineering+Student;Problem+Solver+%26+Developer&center=true&size=30">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=0A66C2&center=true&vCenter=true&random=false&width=800&height=70&lines=Hello+There!+👋;I'm+Abdelrahman+Walid;Computer+Engineering+Student;Problem+Solver+%26+Developer" 
+    alt="Typing SVG" 
+  />
 </h1>
 
 <h3 align="center">
-  💻 Computer Engineering Student | Problem Solver | Backend Enthusiast
+  💻 Computer Engineering Student | Problem Solver | Backend & Desktop Developer
 </h3>
 
 <br>
@@ -27,10 +30,19 @@
 <p align="center">
 
 🎓 Second Year Student at Faculty of Engineering - Computer Engineering
+
 💻 Interested in Software Development and Problem Solving
+
+🖥️ Building Desktop Applications using C# and Windows Forms
+
+🗄️ Working with SQL Server and ADO.NET for database management and connectivity
+
 🌱 Currently learning Data Structures, Algorithms, and Backend Development
-⚡ Working with OOP concepts using C++, C#, and Java
+
+⚡ Practicing OOP concepts using C++, C#, and Java
+
 🛠️ Using Git & GitHub to manage and improve my projects
+
 🚀 Trying to improve my programming skills every day
 
 </p>
@@ -42,17 +54,23 @@
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,git,github,visualstudio,idea" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,dotnet,git,github,visualstudio,idea" />
 </p>
 
 <br>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Database-SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+
+  <img src="https://img.shields.io/badge/ADO.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white"/>
+
+  <img src="https://img.shields.io/badge/Windows%20Forms-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
 
   <img src="https://img.shields.io/badge/OOP-Object%20Oriented%20Programming-blue?style=for-the-badge"/>
 
   <img src="https://img.shields.io/badge/Problem%20Solving-Codeforces-orange?style=for-the-badge"/>
+
 </p>
 
 ---
